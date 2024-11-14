@@ -1,1 +1,1 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG95am5wNGc5ZDF5Y2o1NnRqa2g2aDBnZnRrYXV3a3RyNWJka2Y1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mX0EM2QnaJ5tnf11Hx/giphy.gif)](github.com)
+<img align="right" alt="Coding" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG95am5wNGc5ZDF5Y2o1NnRqa2g2aDBnZnRrYXV3a3RyNWJka2Y1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mX0EM2QnaJ5tnf11Hx/giphy.gif">
